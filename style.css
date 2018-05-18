@@ -126,7 +126,7 @@ h1 {
     z-index: 2;
 }
 
-@media(max-wdith: 800px) {
+@media(max-width: 800px) {
     h1 {
         font-size: 2rem;
     }
@@ -136,7 +136,7 @@ h1 {
     }
 }
 
-@media(min-height: 700px) {
+@media(max-height: 700px) {
     .button {
         top: 70%;
     }
